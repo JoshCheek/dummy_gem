@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Joshua Cheek}]
   s.date = %q{2011-06-19}
+  s.description = %q{Does nothing. Useful for testing.}
   s.email = %q{josh.cheek@gmail.com}
   s.files = [%q{MIT-License.txt}, %q{Readme.md}, %q{lib/dummy_gem.rb}]
   s.homepage = %q{https://github.com/JoshCheek/dummy_gem}

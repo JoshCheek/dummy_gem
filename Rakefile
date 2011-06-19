@@ -7,6 +7,7 @@ spec = Gem::Specification.new do |s|
   s.name              = "dummy_gem"
   s.version           = "1.0.0"
   s.summary           = "Does nothing. Useful for testing."
+  s.description       = s.summary
   s.author            = "Joshua Cheek"
   s.email             = "josh.cheek@gmail.com"
   s.homepage          = "https://github.com/JoshCheek/dummy_gem"
